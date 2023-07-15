@@ -1,0 +1,338 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic",
+    "publicationDate": "1925",
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "A masterpiece of American literature."
+      },
+      {
+        "rating": 3.8,
+        "comment": "Interesting portrayal of the Jazz Age."
+      }
+    ]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "publicationDate": "1960",
+    "reviews": [
+      {
+        "rating": 5.0,
+        "comment": "A timeless classic that tackles important themes."
+      },
+      {
+        "rating": 4.2,
+        "comment": "Compelling story with memorable characters."
+      }
+    ]
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "publicationDate": "1949",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "Thought-provoking and impactful."
+      },
+      {
+        "rating": 4.0,
+        "comment": "A must-read for fans of dystopian literature."
+      }
+    ]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Classic",
+    "publicationDate": "1813",
+    "reviews": [
+      {
+        "rating": 4.8,
+        "comment": "A delightful romance with memorable characters."
+      },
+      {
+        "rating": 4.2,
+        "comment": "Beautifully written and timeless."
+      }
+    ]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "publicationDate": "1951",
+    "reviews": [
+      {
+        "rating": 4.1,
+        "comment": "A coming-of-age classic that resonates with teenagers."
+      },
+      {
+        "rating": 3.7,
+        "comment": "Thought-provoking and controversial."
+      }
+    ]
+  },
+  {
+    "title": "To the Lighthouse",
+    "author": "Virginia Woolf",
+    "genre": "Modernist",
+    "publicationDate": "1927",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "A remarkable exploration of human consciousness."
+      },
+      {
+        "rating": 4.3,
+        "comment": "Captivating and beautifully written."
+      }
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "1937",
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "An enchanting adventure with memorable characters."
+      },
+      {
+        "rating": 4.5,
+        "comment": "A must-read for fans of high fantasy."
+      }
+    ]
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "publicationDate": "1851",
+    "reviews": [
+      {
+        "rating": 4.4,
+        "comment": "A masterpiece of American literature."
+      },
+      {
+        "rating": 3.9,
+        "comment": "Epic and philosophical."
+      }
+    ]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "publicationDate": "1954-1955",
+    "reviews": [
+      {
+        "rating": 5.0,
+        "comment": "An epic fantasy trilogy that defined the genre."
+      },
+      {
+        "rating": 4.7,
+        "comment": "Immersive and beautifully crafted."
+      }
+    ]
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic",
+    "publicationDate": "1818",
+    "reviews": [
+      {
+        "rating": 4.3,
+        "comment": "A haunting tale of ambition and creation."
+      },
+      {
+        "rating": 4.0,
+        "comment": "Thought-provoking and introspective."
+      }
+    ]
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "publicationDate": "1932",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "A chilling vision of a future society."
+      },
+      {
+        "rating": 4.1,
+        "comment": "Engaging and thought-provoking."
+      }
+    ]
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "publicationDate": "8th century BCE",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "An enduring classic of Greek literature."
+      },
+      {
+        "rating": 4.4,
+        "comment": "Epic adventure with mythical elements."
+      }
+    ]
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "publicationDate": "1997",
+    "reviews": [
+      {
+        "rating": 4.9,
+        "comment": "Magical and captivating from start to finish."
+      },
+      {
+        "rating": 4.6,
+        "comment": "A delightful introduction to the wizarding world."
+      }
+    ]
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "publicationDate": "1988",
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "A profound and inspirational journey."
+      },
+      {
+        "rating": 4.2,
+        "comment": "A philosophical tale with universal lessons."
+      }
+    ]
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "publicationDate": "1950-1956",
+    "reviews": [
+      {
+        "rating": 4.7,
+        "comment": "A magical series filled with adventure and imagination."
+      },
+      {
+        "rating": 4.4,
+        "comment": "Timeless and enchanting."
+      }
+    ]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Gothic",
+    "publicationDate": "1890",
+    "reviews": [
+      {
+        "rating": 4.4,
+        "comment": "A captivating exploration of vanity and morality."
+      },
+      {
+        "rating": 4.1,
+        "comment": "Wilde's wit and elegance shine through."
+      }
+    ]
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Gothic",
+    "publicationDate": "1847",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "A compelling and feminist novel ahead of its time."
+      },
+      {
+        "rating": 4.3,
+        "comment": "Brontë's writing evokes strong emotions."
+      }
+    ]
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian",
+    "publicationDate": "2008",
+    "reviews": [
+      {
+        "rating": 4.5,
+        "comment": "A gripping and thrilling dystopian adventure."
+      },
+      {
+        "rating": 4.2,
+        "comment": "Compelling characters and social commentary."
+      }
+    ]
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Crime",
+    "publicationDate": "2005",
+    "reviews": [
+      {
+        "rating": 4.3,
+        "comment": "An intense and gripping crime thriller."
+      },
+      {
+        "rating": 4.0,
+        "comment": "Complex characters and a suspenseful plot."
+      }
+    ]
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Young Adult",
+    "publicationDate": "2012",
+    "reviews": [
+      {
+        "rating": 4.6,
+        "comment": "Heartbreaking and beautifully written."
+      },
+      {
+        "rating": 4.3,
+        "comment": "A moving story of love and loss."
+      }
+    ]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "publicationDate": "2003",
+    "reviews": [
+      {
+        "rating": 4.2,
+        "comment": "A fast-paced and intriguing mystery."
+      },
+      {
+        "rating": 3.9,
+        "comment": "Thrilling and filled with historical puzzles."
+      }
+    ]
+  }
+]
